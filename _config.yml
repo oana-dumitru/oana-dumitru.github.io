@@ -12,18 +12,18 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "nw"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise", "nw"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "First M. Last"
+title                    : "Oana A. Dumitru"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "First M. Last"
+name                     : "Oana A. Dumitru"
 description              : "Homepage"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : vietbuiminh/force-academic-mk # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : oana-dumitru/oana-dumitru.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #/assets/images/photo-1590379492966-e076d8f84c2d.jpeg # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #/assets/images/nwlogo_120x168px_square.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
