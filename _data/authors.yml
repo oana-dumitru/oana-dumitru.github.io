@@ -1,11 +1,11 @@
 # /_data/authors.yml
 
 First M. Last:
-  name             : "First M. Last"
+  name             : "Oana A. Dumitru"
   avatar           : "/assets/images/about.png" # path of avatar image, e.g. "/assets/images/avatar.png"
-  bio              : "<br/>Department of Earth & Planetary Sciences, University of Florida<br/>"
+  bio              : "<br/>Department of Geological Sciences, University of Florida<br/>"
   location         : Gainesville, FL
-  email            : example@email.com
+  email            : odumitru@ufl.edu
   links:
     - label: "University website"
       icon: "fas fa-solid fa-link"
@@ -15,7 +15,7 @@ First M. Last:
       url: "https://orcid.org/"
     - label: "Google Scholar"
       icon: "fab fa-brands fa-google"
-      url: https://scholar.google.com/
+      url: https://scholar.google.com/citations?user=Ufu28IwAAAAJ&hl=en&oi=ao
     - label: "GitHub"
       icon: "fab fa-brands fa-github"
       url: "https://github.com/"
