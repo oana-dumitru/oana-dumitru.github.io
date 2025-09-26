@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Groups"
-permalink: /groups/
+title: "Group"
+permalink: /group/
 hidden: true
 header:
   overlay_color: "#222222" #"#5e616c"
