@@ -4,7 +4,7 @@ layout: single
 permalink: /about/
 
 # Includes author profile in sidebar
-author: First M. Last
+author: Oana A Dumitru
 author_profile: true
 
 classes: wide
@@ -16,9 +16,9 @@ header:
   caption: "Park Reserve in Pensacola, 2/2/2025"
 excerpt: I am a gopher tortoise working as a geoscientist at the University of Florida. My research focuses on rock fracture and erosion driven by climate and water forces. I am passionate about understanding how these processes shape our environment.
 ---
-* PhD, University of Florida
+* PhD, University of South Florida
   * Thesis: <i>"Investigating the interactions between geological processes and environmental change: A study of rock formation, erosion, and landscape evolution"</i>
-* BSc, Augustana College, <i>Geology</i>
+* MSc, Babes-Bolyai University, <i>Geology</i>
 
 <b>Contact: <a href="mailto:email@example.com">gopher@example.com</a></b> 
 
