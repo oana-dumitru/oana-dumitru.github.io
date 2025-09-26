@@ -2,7 +2,7 @@
 
 First M. Last:
   name             : "Oana A. Dumitru"
-  avatar           : "/assets/images/about.png" # path of avatar image, e.g. "/assets/images/avatar.png"
+  avatar           : "/assets/images/about.jpg" # path of avatar image, e.g. "/assets/images/avatar.png"
   bio              : "<br/>Department of Geological Sciences, University of Florida<br/>"
   location         : Gainesville, FL
   email            : odumitru@ufl.edu
