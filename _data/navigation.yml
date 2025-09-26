@@ -10,7 +10,7 @@ main:
     url: /teaching/
   - title: "CV"
     url: /CV/
- - title: "Group"
+  - title: "Group"
     url: /group/
- - title: "Field sites"
+  - title: "Field sites"
     url: /fieldsites/  
