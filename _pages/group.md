@@ -24,7 +24,7 @@ toc_sticky: true
       
 ---
 # feature_row:
-- image_path: /assets/images/ANNEMARIE 3.jpeg
+- image_path: /assets/images/Kaleb.pdf
   title: "Annemarie Mueller, Undergraduate student"
   excerpt: "Last interglacial sea level derived from fossil corals from Hawaii (Honor thesis)"
   btn_label: "Learn More"
