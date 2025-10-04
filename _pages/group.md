@@ -37,7 +37,7 @@ feature_row:
   btn_label: "Learn More"
   btn_class: "btn--primary"
   
-feature_row#2
+feature_row2:
 - image_path: /assets/images/ANNEMARIE 3.jpeg
   title: "Annemarie Mueller, undergraduate student"
   excerpt: "Last interglacial sea level derived from fossil corals from Hawaii (Honor thesis)."
@@ -65,3 +65,5 @@ feature_row#2
   url: "/group/Madeline Kasper"
   btn_label: "Learn More"
   btn_class: "btn--primary"
+
+---
