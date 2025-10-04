@@ -23,7 +23,27 @@ toc: true
 toc_sticky: true  
       
 ---
-# Teaching
+# feature_row:
+- image_path: /assets/images/ANNEMARIE 3.jpeg
+  title: "Annemarie Mueller, Undergraduate student"
+  excerpt: "Last interglacial sea level derived from fossil corals from Hawaii (Honor thesis)"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+- image_path: /assets/images/pahoehoe.png
+  title: "North Shore Lava Flow Formation"
+  excerpt: "Pahoehoe lava flows in North Shore, Minnesota, formed by the continental rift that once ran across the Great Lakes region."
+  url: "/research/pahoehoe"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+- image_path: /assets/images/pahoehoe.png
+  title: "North Shore Lava Flow Formation"
+  excerpt: "Pahoehoe lava flows in North Shore, Minnesota, formed by the continental rift that once ran across the Great Lakes region."
+  url: "/research/pahoehoe"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+
+
+Teaching
 As a Florida Gopher, I guide my students through the intricate tunnels of knowledge, helping them develop skills and confidence that burrow deeper than most. My teaching style is all about slow, steady exploration—uncovering the complex, interconnected nature of climate, glaciation, and Earth surface processes. I love watching students discover their own interests and professional goals, and I hold a teaching certificate from the [Preparing Future Faculty](https://cei.umn.edu/programs/preparing-future-faculty-program) curriculum at the University of Minnesota.
 
 ## Teaching at University of Florida
