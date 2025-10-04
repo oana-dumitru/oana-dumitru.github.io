@@ -1,5 +1,5 @@
 ---
-layout: double
+layout: single
 title: "Corals, Caves & Chronologies Lab at UF"
 permalink: /group/
 hidden: true
