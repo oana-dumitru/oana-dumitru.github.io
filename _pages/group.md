@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Group"
+title: "Corals, Caves & Chronologies Lab at UF"
 permalink: /group/
 hidden: true
 header:
@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption:
-excerpt: My teaching burrow is all about active exploration, cozy collaboration, and making sure every student feels at home. Whether you’re slow and steady or quick on your feet, I’m here to help you reach your goals—one sandy step at a time!
+excerpt: Welcome to the Corals and Caves Group —a team driven by curiosity about Earth’s past. We explore records preserved in fossil corals and cave deposits to better understand longterm changes in climate and sea level.
 
 # Includes author profile in sidebar
 author: First M. Last
