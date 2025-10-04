@@ -11,7 +11,7 @@ header:
   #  - label: "Get started"
   #    url: "/test/"
   caption:
-excerpt: Welcome to the Corals and Caves Group —a team driven by curiosity about Earth’s past. We explore records preserved in fossil corals and cave deposits to better understand longterm changes in climate and sea level.
+excerpt: Welcome to the Corals and Caves Group — a team driven by curiosity about Earth’s past. We explore records preserved in fossil corals and cave deposits to better understand longterm changes in climate and sea level.
 
 # Includes author profile in sidebar
 author: First M. Last
@@ -21,10 +21,17 @@ author_profile: true
 #  
 toc: true
 toc_sticky: true  
-      
+
+      - image_path: /assets/images/pahoehoe.png
+  title: "North Shore Lava Flow Formation"
+  excerpt: "Pahoehoe lava flows in North Shore, Minnesota, formed by the continental rift that once ran across the Great Lakes region."
+  url: "/research/pahoehoe"
+  btn_label: "Learn More"
+  btn_class: "btn--primary" 
+  
 feature_row:
 - image_path: /assets/images/Kaleb.pdf
-  title: "Kaleb McLaughlin, MsC student (2025- present)"
+  title: "Kaleb McLaughlin, MsC student (2025-present)"
   excerpt: "Past climate changes reconstructions using speleothems from the Yucatán Peninsula."
   url: "/group/Kaleb"
   btn_label: "Learn More"
