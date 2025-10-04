@@ -22,7 +22,7 @@ author_profile: true
 toc: true
 toc_sticky: true  
       
----
+feature_row:
 - image_path: /assets/images/Kaleb.pdf
   title: "Kaleb McLaughlin, MsC student (2025- present)"
   excerpt: "Past climate changes reconstructions using speleothems from the Yucatán Peninsula."
@@ -37,6 +37,7 @@ toc_sticky: true
   btn_label: "Learn More"
   btn_class: "btn--primary"
   
+feature_row#2
 - image_path: /assets/images/ANNEMARIE 3.jpeg
   title: "Annemarie Mueller, undergraduate student"
   excerpt: "Last interglacial sea level derived from fossil corals from Hawaii (Honor thesis)."
