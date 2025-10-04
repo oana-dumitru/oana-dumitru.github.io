@@ -20,7 +20,9 @@ excerpt: I’m an Assistant Professor in the Department of Geological Sciences a
   * Thesis: <i>"Investigating the interactions between geological processes and environmental change: A study of rock formation, erosion, and landscape evolution"</i>
 * MSc, Babes-Bolyai University, <i>Geology</i>
 
-<b>Contact: <a href="mailto:email@example.com">gopher@example.com</a></b> 
+<b>Contact: <a href="mailto:email@example.com">
+Email
+Address: Department of Geological Sciences, 362 Williamson Hall, Gainesville, FL 32611, University of Florida</a></b> 
 
 <figure class="third">
     <img src="{{ site.baseurl }}/assets/images/waterfall.png" alt="Waterfall" class="test-class">
