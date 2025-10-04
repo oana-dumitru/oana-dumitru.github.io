@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: double
 title: "Corals, Caves & Chronologies Lab at UF"
 permalink: /group/
 hidden: true
@@ -21,13 +21,6 @@ author_profile: true
 #  
 toc: true
 toc_sticky: true  
-
-      - image_path: /assets/images/pahoehoe.png
-  title: "North Shore Lava Flow Formation"
-  excerpt: "Pahoehoe lava flows in North Shore, Minnesota, formed by the continental rift that once ran across the Great Lakes region."
-  url: "/research/pahoehoe"
-  btn_label: "Learn More"
-  btn_class: "btn--primary" 
   
 feature_row:
 - image_path: /assets/images/Kaleb.pdf
