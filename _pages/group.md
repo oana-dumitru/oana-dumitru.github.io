@@ -25,21 +25,43 @@ toc_sticky: true
 ---
 # feature_row:
 - image_path: /assets/images/Kaleb.pdf
-  title: "Annemarie Mueller, Undergraduate student"
-  excerpt: "Last interglacial sea level derived from fossil corals from Hawaii (Honor thesis)"
+  title: "Kaleb McLaughlin, MsC student (2025- present)"
+  excerpt: "Past climate changes reconstructions using speleothems from the Yucatán Peninsula."
+  url: "/group/Kaleb"
   btn_label: "Learn More"
   btn_class: "btn--primary"
-- image_path: /assets/images/pahoehoe.png
-  title: "North Shore Lava Flow Formation"
-  excerpt: "Pahoehoe lava flows in North Shore, Minnesota, formed by the continental rift that once ran across the Great Lakes region."
-  url: "/research/pahoehoe"
+  
+- image_path: /assets/images/Emalee Ott.pdf
+  title: "Emalee Ott, MsC student (2025- present)"
+  excerpt: "Reconstruction of paleo-sea levels from U-series ages of fossil coral reefs"
+  url: "/group/Emalee Ott"
   btn_label: "Learn More"
   btn_class: "btn--primary"
-- image_path: /assets/images/pahoehoe.png
-  title: "North Shore Lava Flow Formation"
-  excerpt: "Pahoehoe lava flows in North Shore, Minnesota, formed by the continental rift that once ran across the Great Lakes region."
-  url: "/research/pahoehoe"
+  
+- image_path: /assets/images/ANNEMARIE 3.jpeg
+  title: "Annemarie Mueller, undergraduate student"
+  excerpt: "Last interglacial sea level derived from fossil corals from Hawaii (Honor thesis)."
+  url: "/group/ANNEMARIE"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
+  
+- image_path: /assets/images/Laurent Puyana".jpeg
+  title: "Laurent Puyana, undergraduate student "
+  excerpt: "Oolites as sea-level indicators during the last interglacial (Honor thesis) "
+  url: "/group/Laurent Puyana"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
+ image_path: /assets/images/Ren Leihy ".jpeg
+  title: "Ren Leihy, undergraduate student "
+  excerpt: "Assessing fossil corals’ preservation potential by species"
+  url: "/group/Ren Leihy"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
 
+ image_path: /assets/images/Madeline Kasper".jpeg
+  title: "Madeline Kasper, undergraduate student "
+  excerpt: 
+  url: "/group/Madeline Kasper"
+  btn_label: "Learn More"
+  btn_class: "btn--primary"
