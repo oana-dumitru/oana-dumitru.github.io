@@ -14,7 +14,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/image.png
   caption: "Park Reserve in Pensacola, 2/2/2025"
-excerpt: I am a gopher tortoise working as a geoscientist at the University of Florida. My research focuses on rock fracture and erosion driven by climate and water forces. I am passionate about understanding how these processes shape our environment.
+excerpt: I’m an Assistant Professor in the Department of Geological Sciences at the University of Florida and I am studying past sea level and climate changes across glacial-interglacial timescales. My work primarily revolves around leveraging fossil corals and cave deposits as valuable climate and sea-level proxies. To establish accurate timelines for these geological materials, I use geochronological methods, such as U-Th and U-Pb dating. My goal is to contribute to more precise projections for sea-level changes in the future, which is crucial for addressing the challenges posed by ongoing climate change.
 ---
 * PhD, University of South Florida
   * Thesis: <i>"Investigating the interactions between geological processes and environmental change: A study of rock formation, erosion, and landscape evolution"</i>
