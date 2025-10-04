@@ -23,7 +23,7 @@ toc: true
 toc_sticky: true  
   
 feature_row:
-- image_path: /assets/images/Kaleb.pdf
+- image_path: /assets/images/Kaleb.jpeg
   title: "Kaleb McLaughlin, MsC student (2025-present)"
   excerpt: "Past climate changes reconstructions using speleothems from the Yucatán Peninsula."
   url: "/group/Kaleb"
