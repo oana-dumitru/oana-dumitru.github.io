@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "Corals, Caves & Chronologies Lab at UF"
 permalink: /group/
 hidden: true
