@@ -35,15 +35,15 @@ feature_row:
   url: "/group/Emalee Ott"
   btn_label: "Learn More"
   btn_class: "btn--primary"
-
-feature_row2:
+  
 - image_path: /assets/images/ANNEMARIE_3.jpeg
   title: "Annemarie Mueller, undergraduate student"
   excerpt: "Last interglacial sea level derived from fossil corals from Hawaii (Honor thesis)."
   url: "/group/ANNEMARIE"
   btn_label: "Learn More"
   btn_class: "btn--primary"
-
+  
+feature_row2:
 - image_path: /assets/images/Laurent_Puyana.JPG
   title: "Laurent Puyana, undergraduate student"
   excerpt: "Oolites as sea-level indicators during the last interglacial (Honor thesis)"
