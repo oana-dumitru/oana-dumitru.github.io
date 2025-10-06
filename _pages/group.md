@@ -22,14 +22,14 @@ toc: true
 toc_sticky: true  
 
 feature_row:
-- image_path: /assets/images/Kaleb.jpeg
+- image_path: /assets/images/Kaleb.png
   title: "Kaleb McLaughlin, MsC student (2025-present)"
   excerpt: "Past climate changes reconstructions using speleothems from the Yucatán Peninsula."
   url: "/group/Kaleb"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
-- image_path: /assets/images/Emalee Ott.pdf
+- image_path: /assets/images/Kaleb.png
   title: "Emalee Ott, MsC student (2025- present)"
   excerpt: "Reconstruction of paleo-sea levels from U-series ages of fossil coral reefs"
   url: "/group/Emalee Ott"
@@ -37,28 +37,28 @@ feature_row:
   btn_class: "btn--primary"
 
 feature_row2:
-- image_path: /assets/images/ANNEMARIE 3.jpeg
+- image_path: /assets/images/ANNEMARIE_3.jpeg
   title: "Annemarie Mueller, undergraduate student"
   excerpt: "Last interglacial sea level derived from fossil corals from Hawaii (Honor thesis)."
   url: "/group/ANNEMARIE"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
-- image_path: /assets/images/Laurent Puyana.jpeg
+- image_path: /assets/images/Laurent_Puyana.JPG
   title: "Laurent Puyana, undergraduate student"
   excerpt: "Oolites as sea-level indicators during the last interglacial (Honor thesis)"
   url: "/group/Laurent Puyana"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
-- image_path: /assets/images/Ren Leihy.jpeg
+- image_path: /assets/images/Ren_Leihy.jpeg
   title: "Ren Leihy, undergraduate student"
   excerpt: "Assessing fossil corals’ preservation potential by species"
   url: "/group/Ren Leihy"
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
-- image_path: /assets/images/Madeline Kasper.jpeg
+- image_path: /assets/images/Ren_Leihy.jpeg
   title: "Madeline Kasper, undergraduate student"
   excerpt: ""
   url: "/group/Madeline Kasper"
